@@ -1,0 +1,200 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "age": 30
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "securePass",
+    "age": 25
+  },
+  {
+    "name": "Mike Johnson",
+    "email": "mike.johnson@example.com",
+    "password": "pass123",
+    "age": 28
+  },
+  {
+    "name": "Emily Brown",
+    "email": "emily.brown@example.com",
+    "password": "emily_pass",
+    "age": 22
+  },
+  {
+    "name": "Robert Davis",
+    "email": "robert.davis@example.com",
+    "password": "rd12345",
+    "age": 35
+  },
+  {
+    "name": "Lisa White",
+    "email": "lisa.white@example.com",
+    "password": "password321",
+    "age": 27
+  },
+  {
+    "name": "Michael Lee",
+    "email": "michael.lee@example.com",
+    "password": "leeMichael",
+    "age": 29
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "password": "sarah123",
+    "age": 31
+  },
+  {
+    "name": "David Smith",
+    "email": "david.smith@example.com",
+    "password": "davidPass",
+    "age": 32
+  },
+  {
+    "name": "Michelle Brown",
+    "email": "michelle.brown@example.com",
+    "password": "brownMichelle",
+    "age": 26
+  },
+  {
+    "name": "Daniel Wilson",
+    "email": "daniel.wilson@example.com",
+    "password": "wilsonPass",
+    "age": 24
+  },
+  {
+    "name": "Jennifer Adams",
+    "email": "jennifer.adams@example.com",
+    "password": "jennifer123",
+    "age": 27
+  },
+  {
+    "name": "James Miller",
+    "email": "james.miller@example.com",
+    "password": "millerPass",
+    "age": 28
+  },
+  {
+    "name": "Emma Taylor",
+    "email": "emma.taylor@example.com",
+    "password": "taylor123",
+    "age": 29
+  },
+  {
+    "name": "Ryan Harris",
+    "email": "ryan.harris@example.com",
+    "password": "harrisRyan",
+    "age": 33
+  },
+  {
+    "name": "Sophia Robinson",
+    "email": "sophia.robinson@example.com",
+    "password": "robinsonSophia",
+    "age": 25
+  },
+  {
+    "name": "Matthew Martinez",
+    "email": "matthew.martinez@example.com",
+    "password": "martinez123",
+    "age": 31
+  },
+  {
+    "name": "Olivia Allen",
+    "email": "olivia.allen@example.com",
+    "password": "allenPass",
+    "age": 26
+  },
+  {
+    "name": "Noah Carter",
+    "email": "noah.carter@example.com",
+    "password": "carterNoah",
+    "age": 29
+  },
+  {
+    "name": "Ava Anderson",
+    "email": "ava.anderson@example.com",
+    "password": "andersonPass",
+    "age": 28
+  },
+  {
+    "name": "William Wright",
+    "email": "william.wright@example.com",
+    "password": "wrightWilliam",
+    "age": 30
+  },
+  {
+    "name": "Isabella Hall",
+    "email": "isabella.hall@example.com",
+    "password": "hallIsabella",
+    "age": 24
+  },
+  {
+    "name": "Ethan Lopez",
+    "email": "ethan.lopez@example.com",
+    "password": "lopez123",
+    "age": 27
+  },
+  {
+    "name": "Mia Hill",
+    "email": "mia.hill@example.com",
+    "password": "hillMia1",
+    "age": 25
+  },
+  {
+    "name": "James Scott",
+    "email": "james.scott@example.com",
+    "password": "scottJames",
+    "age": 32
+  },
+  {
+    "name": "Charlotte Green",
+    "email": "charlotte.green@example.com",
+    "password": "greenCharlotte",
+    "age": 29
+  },
+  {
+    "name": "Alexander King",
+    "email": "alexander.king@example.com",
+    "password": "king123",
+    "age": 31
+  },
+  {
+    "name": "Grace Baker",
+    "email": "grace.baker@example.com",
+    "password": "bakerGrace",
+    "age": 26
+  },
+  {
+    "name": "Henry Gonzalez",
+    "email": "henry.gonzalez@example.com",
+    "password": "gonzalezHenry",
+    "age": 27
+  },
+  {
+    "age": 21,
+    "name": "Vishal Shivhare",
+    "email": "vishal.shivhare.345@gmail.com",
+    "password": "1234757"
+  },
+  {
+    "age": 20,
+    "name": "rahul",
+    "email": "rahul.shivhare.345@gmail.com",
+    "password": "1234676"
+  },
+  {
+    "age": 24,
+    "name": "Shyam",
+    "email": "shyam.dwarika.345@gmail.com",
+    "password": "vansi12"
+  },
+  {
+    "age": 27,
+    "name": "Radha",
+    "email": "radha.vrindavan@gmail.com",
+    "password": "barsana12"
+  }
+]
